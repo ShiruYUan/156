@@ -25,6 +25,8 @@ nihaopig
 1111
 You can also embed plots, for example:
 
+nihhhhh
+
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
